@@ -10,3 +10,6 @@
 #business {
     background-color: yellow;
 }
+.asteroid:hover {
+    background-color: violet !important;
+}
