@@ -1,0 +1,12 @@
+.big {
+    color: blue;
+}
+#b325, .b326 {
+    border: green solid 1px;
+}
+#b325, .b326, .b329 {
+    font-weight: bold;
+}
+#business {
+    background-color: yellow;
+}
